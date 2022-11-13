@@ -1,17 +1,8 @@
 # m320
 
-Aufgabe 1
+Aufgabe 1: Eigenschaft eines Rechteckes
 
-Merkmal	Datentyp	Bemerkung
-Width	int	Breite des Rechtecks
-Height	int	Höhe des Rechtecks
-Circumference	Int	
-DiagonalLength	Double	
-Area	Int	
-LineThickness	Int	
-BackgroundColor	String	
-LineColor	String	
-Landscape	Bool	
-Name	String	
+![image](https://user-images.githubusercontent.com/112382296/201542556-312ea731-00ca-462e-9968-df9718ad3d7e.png)
+
 
 
